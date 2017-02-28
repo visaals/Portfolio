@@ -10,7 +10,7 @@ I'm primarily interested in backend web development more so than front end. Henc
 
 ### Pong^2
 ###### Repo link: https://github.com/visaals/pong-2
-Pong^2 (Pong Squared) is a little game that I made for fun with some of the skills I learned in Java. I wanted to see if I could make a quick game with a GUI in Java. The idea of the game stemmed from playing Pong in the Terminal with Emacs and wondering how much more interesting the game would be if the pong ball didn't move in predictable a straight line. I instead made the movement of the ball correspond to a parabola, or y = x^2. It resulted in a more fun gaming experience. I used the StdDraw library to create the GUI and an Arcade Keys library to control key movement.
+Pong^2 (Pong Squared) is a little game that I made for fun with some of the skills I learned in Java. I wanted to see if I could make a quick game with a GUI in Java. The idea of the game stemmed from playing Pong in the Terminal with Emacs and wondering how much more interesting the game would be if the pong ball didn't move in predictable a straight line. I instead made the movement of the ball correspond to a parabola, or y = x^2. It resulted in a more fun gaming experience. I used the StdDraw library to create the GUI, an Arcade Keys library to control key movement, and a standard drawing while loop, and object-oriented design.
 
 
 
