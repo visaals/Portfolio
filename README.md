@@ -1,5 +1,5 @@
 # Portfolio
-I have laid out some of the stuff I have been working on recently throughout this README. This file serves as a directory.If you have any questions or inquiries, please contact me at ambalam.v@wustl.edu
+I have laid out some of the stuff I have been working on recently throughout this README. This file serves as a directory. If you have any questions or inquiries, please contact me at ambalam.v@wustl.edu
 
 
 ### News Website
