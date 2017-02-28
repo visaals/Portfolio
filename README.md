@@ -1,13 +1,19 @@
-# Websites
-Some of the stuff I've been working on recently:
+# Portfolio
+I have laid out some of the stuff I have been working on recently throughout this README. This file serves as a directory.If you have any questions or inquiries, please contact me at ambalam.v@wustl.edu
 
 
-# News Website
-Here's a link to a News Website I built using PHP, html, a little bit of css, and mySQL where users can share links to stories or articles they find interesting (like Reddit):
-http://ec2-52-14-44-219.us-east-2.compute.amazonaws.com/~owenauch/visaal/homepage.php?submit=success
+### News Website
+###### Website Link: http://ec2-52-14-44-219.us-east-2.compute.amazonaws.com/~owenauch/visaal/homepage.php?submit=success
+Above's a link to a News Website I built using PHP, html, a little bit of css, and mySQL where users can share links to stories or articles they find interesting (like Reddit).
 
 I'm primarily interested in backend web development more so than front end. Hence, my website has some good functionality such as supporting users, accounts, profile pages, databases (with foreign keys), comments, rankings, and more. Passwords in my database are hashed and salted, so they are safe. I made sure to use safe sql query practices as well to prevent sql injection attacks.
 
-If you have any questions or inquiries, please contact me at ambalam.v@wustl.edu
+### Pong^2
+###### Repo link: https://github.com/visaals/pong-2
+Pong^2 (Pong Squared) is a little game that I made for fun with some of the skills I learned in Java. I wanted to see if I could make a quick game with a GUI in Java. The idea of the game stemmed from playing Pong in the Terminal with Emacs and wondering how much more interesting the game would be if the pong ball didn't move in predictable a straight line. I instead made the movement of the ball correspond to a parabola, or y = x^2. It resulted in a more fun gaming experience. I used the StdDraw library to create the GUI and an Arcade Keys library to control key movement.
+
+
+
+
 
 Thanks for visiting!
