@@ -8,6 +8,8 @@ Above's a link to a News Website I built with my friend Owen Auch using PHP, htm
 
 I'm primarily interested in backend web development more so than front end. Hence, my website has some good functionality such as supporting users, accounts, profile pages, databases (with foreign keys), comments, rankings, and more. Passwords in my database are hashed and salted, so they are safe. I made sure to use safe sql query practices as well to prevent sql injection attacks.
 
+Version control was an interesting and sometimes frustrating process at first because this was one of my first projects working with a partner. We ran into some merge conflicts and trouble pulling and pushing with Git at first, but we then started using better practices such as branching so that the merges would go smoother. Overall, it was a good learning through experience about the Do's and Dont's with Git to save headaches in the future.
+
 ### Pong^2
 ###### Repo link: https://github.com/visaals/pong-2
 Pong^2 (Pong Squared) is a little game that I made for fun with some of the skills I learned in Java. I wanted to see if I could make a quick game with a GUI in Java. The idea of the game stemmed from playing Pong in the Terminal with Emacs and wondering how much more interesting the game would be if the pong ball didn't move in predictable a straight line. I instead made the movement of the ball correspond to a parabola, or y = x^2. It resulted in a more fun gaming experience. I used the StdDraw library to create the GUI, an Arcade Keys library to control key movement, and a standard drawing while loop, and object-oriented design.
