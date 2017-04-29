@@ -1,0 +1,6 @@
+framework module Pods_washu_course_listings {
+  umbrella header "Pods-washu_course_listings-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+Stuff we gotta do:
+
+- create login button somewhere on the homepage
+- registered users can make comments
+- Unregistered users can only view stories and comments.
+
+
+- All data must be kept in a MySQL database (user information, stories, comments, and links).
+- Make sure everything is secure
+
+
+
+creative:
+Few ideas off the top of my head:
+
+1. Let users specify a category for their posts (e.g. News, Sports, Pop Culture, etc) and allow filtering of stories by category.
+2. Implement a "profile page" where each user's posts are listed.
+3. Allow users to change their passwords (though this is pretty simple and would not get full credit on its own).
+4. Users can delete their accounts (again, pretty simple and would need another feature implemented).
+5. Allow users to 'save' stories and access a list of all their saved stories.
+
+Pick a couple of those or something similar and you should be set to get full credit.
