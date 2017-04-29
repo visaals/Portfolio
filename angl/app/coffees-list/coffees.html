@@ -1,0 +1,26 @@
+    <div>
+      <!--Sidebar content-->
+      Search: <input ng-model="$ctrl.query" />
+    </div>
+
+
+  <table class="table">
+    <tr>
+      <th>Reviews: </th>
+      <th>Brand: </th>
+      <th>Coffee Name: </th>
+      <th>Country: </th>
+    </tr>
+    <tr ng-repeat="coffee in coffees | filter: $ctrl.query">
+      <td><a href="#!/coffees-list/{{coffee.id}}">Reviews</a></td>
+      <td>{{coffee.brand}}</td>
+      <td>{{coffee.name}}</td>
+      <td>{{coffee.country}}</td>
+    </tr>
+
+
+
+  </table>
+
+
+<!-- <coffees-detail></coffees-detail> -->

@@ -1,0 +1,26 @@
+<p>Coffee Reviews</p>
+
+<div ng-controller="coffeesController">
+  <table class = "table" ng-repeat="coffee in coffees | filter: { id: $ctrl.coffeeId } ">
+    <tr>
+      <th>Reviewer:</th>
+      <th>Comment:</th>
+      <th>Rating:</th>
+    </tr>
+    <tr ng-repeat="review in coffee.reviews">
+      <td>
+        {{review.reviewer}}
+      </td>
+      <td>
+        {{review.comment}}
+      </td>
+      <td>
+        <span class = "glyphicon glyphicon-star" ng-repeat="star in [0,1,2,3,4] | limitTo:review.rating">
+        
+        <span>
+      </td>
+    </tr>
+
+
+  </table>
+</div>
