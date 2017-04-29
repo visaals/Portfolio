@@ -2,7 +2,12 @@
 I have laid out some of the stuff I have been working on recently throughout this README. This file serves as a directory. If you have any questions or inquiries, please contact me at ambalam.v@wustl.edu
 
 ### Free Food Finder (CSE 330)
-For our final project in CSE 330, we decided to make a website to help students find events on campus that are serving free food. We used ReactJS for our frontent UI with MongoDB and Express to handle our backend. MongoDB was amazing because it was so much simpler than MySQL. Though it took a while to learn React, once we got the hang of it, our productivity went through the roof. Reusing components saved us so much time in the long run. Since React was my first JS framework I delved deeply into, I can totally see benefit.  
+##### See a screenshot below!
+For our final project in CSE 330, we decided to make a website to help students find events on campus that are serving free food. We used ReactJS for our frontent UI with MongoDB and Express to handle our backend. MongoDB was amazing because it was so much simpler than MySQL. Though it took a while to learn React, once we got the hang of it, our productivity went through the roof. Reusing components saved us so much time in the long run. Since React was my first JS framework I delved deeply into, I can totally see benefit of how much quicker it is.
+
+I mainly handled creating the form and the list of events in React while my partner Owen Auch handled creating the map using Leaflet, bootstrapping, and the backend with MongoDB and Express.
+
+Usage: Add an event using the form. If the event is today, it will show up on the map. Click on the map to find your location. Find events going on today and sort them on the list.
 
 ### News Website (CSE 330)
 ###### Website Link: http://ec2-52-14-44-219.us-east-2.compute.amazonaws.com/~owenauch/visaal/homepage.php?submit=success
