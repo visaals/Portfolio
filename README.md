@@ -3,9 +3,9 @@ I have laid out some of the stuff I have been working on recently throughout thi
 
 ### Free Food Finder (CSE 330)
 ##### See a screenshot below!
-For our final project in CSE 330, we decided to make a website to help students find events on campus that are serving free food. We used ReactJS for our frontent UI with MongoDB and Express to handle our backend. MongoDB was amazing because it was so much simpler than MySQL. Though it took a while to learn React, once we got the hang of it, our productivity went through the roof. Reusing components saved us so much time in the long run. Since React was my first JS framework I delved deeply into, I can totally see benefit of how much quicker it is.
+For our final project in CSE 330, we decided to make a website to help students find events on campus that are serving free food. We used ReactJS for our frontent UI with MongoDB and Express to handle our backend. MongoDB was amazing because it was so much simpler than MySQL. Though it took a bit to learn React fundamentals, once we got the hang of it, our productivity went through the roof. Reusing components saved us so much time in the long run. Since React was my first JS framework I delved deeply into, I can totally see benefit of how much quicker it is.
 
-I mainly handled creating the form and the list of events in React while my partner Owen Auch handled creating the map using Leaflet, bootstrapping, and the backend with MongoDB and Express.
+I mainly handled creating the form and the list of events in React while my partner Owen Auch handled creating the map using Leaflet, bootstrapping, and the backend with MongoDB and Express. We got started quickly using the create-react-app repo by Facebook.
 
 Usage: Add an event using the form. If the event is today, it will show up on the map. Click on the map to find your location. Find events going on today and sort them on the list.
 
