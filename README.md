@@ -9,6 +9,10 @@ I mainly handled creating the form and the list of events in React while my part
 
 Usage: Add an event using the form. If the event is today, it will show up on the map. Click on the map to find your location. Find events going on today and sort them on the list.
 
+![alt-text](https://github.com/visaals/Portfolio/blob/master/Screen%20Shot%202017-04-29%20at%206.43.48%20PM.png)
+![alt-text](https://github.com/visaals/Portfolio/blob/master/Screen%20Shot%202017-04-29%20at%206.44.09%20PM.png)
+
+
 ### News Website (CSE 330)
 ###### Website Link: http://ec2-52-14-44-219.us-east-2.compute.amazonaws.com/~owenauch/visaal/homepage.php?submit=success
 Above's a link to a News Website I built with my friend Owen Auch using PHP, html, a little bit of css, and mySQL where users can share links to stories or articles they find interesting (like Reddit).
