@@ -1,8 +1,10 @@
 # Portfolio
 I have laid out some of the stuff I have been working on recently throughout this README. This file serves as a directory. If you have any questions or inquiries, please contact me at ambalam.v@wustl.edu
 
+### Free Food Finder (CSE 330)
+For our final project in CSE 330, we decided to make a website to help students find events on campus that are serving free food. We used ReactJS for our frontent UI with MongoDB and Express to handle our backend. MongoDB was amazing because it was so much simpler than MySQL. Though it took a while to learn React, once we got the hang of it, our productivity went through the roof. Reusing components saved us so much time in the long run. Since React was my first JS framework I delved deeply into, I can totally see benefit.  
 
-### News Website
+### News Website (CSE 330)
 ###### Website Link: http://ec2-52-14-44-219.us-east-2.compute.amazonaws.com/~owenauch/visaal/homepage.php?submit=success
 Above's a link to a News Website I built with my friend Owen Auch using PHP, html, a little bit of css, and mySQL where users can share links to stories or articles they find interesting (like Reddit).
 
