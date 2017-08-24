@@ -16,13 +16,13 @@ Usage: Add an event using the form. If the event is today, it will show up on th
 
 ### News Website (CSE 330)
 ###### Website Link: http://ec2-52-14-44-219.us-east-2.compute.amazonaws.com/~owenauch/visaal/homepage.php?submit=success
-Above's a link to a News Website I built with my friend Owen Auch using PHP, html, a little bit of css, and mySQL where users can share links to stories or articles they find interesting (like Reddit).
+Above's a link to a News Website I built with my friend Owen Auch (https://github.com/owenauch) using PHP, html, a little bit of css, and mySQL where users can share links to stories or articles they find interesting (like Reddit).
 
 I'm primarily interested in backend web development more so than front end. Hence, my website has some good functionality such as supporting users, accounts, profile pages, databases (with foreign keys), comments, rankings, and more. Passwords in my database are hashed and salted, so they are safe. I made sure to use safe sql query practices as well to prevent sql injection attacks.
 
 Version control was an interesting and sometimes frustrating process at first because this was one of my first projects working with a partner. We ran into some merge conflicts and trouble pulling and pushing with Git at first, but we then started using better practices such as branching so that the merges would go smoother. Overall, it was a good learning through experience about the Do's and Dont's with Git to save headaches in the future.
 
-![alt-text](http://ec2-52-14-44-219.us-east-2.compute.amazonaws.com/~owenauch/visaal/homepage.php?submit=success)
+![alt-text](https://github.com/visaals/Portfolio/blob/master/image.png)
 
 ## Personal Projects
 
