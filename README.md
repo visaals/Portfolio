@@ -10,8 +10,8 @@ I mainly handled creating the form and the list of events in React while my part
 
 Usage: Add an event using the form. If the event is today, it will show up on the map. Click on the map to find your location. Find events going on today and sort them on the list.
 
-![alt-text](https://github.com/visaals/Portfolio/screenshots/fff_1.png)
-![alt-text](https://github.com/visaals/Portfolio/screenshots/fff_2.png)
+![alt-text](https://github.com/visaals/Portfolio/blob/master/screenshots/fff_1.png)
+![alt-text](https://github.com/visaals/Portfolio/blob/master/screenshots/fff_2.png)
 
 
 ### News Website (CSE 330)
@@ -22,7 +22,7 @@ I'm primarily interested in backend web development more so than front end. Henc
 
 Version control was an interesting and sometimes frustrating process at first because this was one of my first projects working with a partner. We ran into some merge conflicts and trouble pulling and pushing with Git at first, but we then started using better practices such as branching so that the merges would go smoother. Overall, it was a good learning through experience about the Do's and Dont's with Git to save headaches in the future.
 
-![alt-text](https://github.com/visaals/Portfolio/screenshots/news_website.png)
+![alt-text](https://github.com/visaals/Portfolio/blob/master/screenshots/news_website.png)
 
 ## Personal Projects
 
