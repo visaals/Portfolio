@@ -1,8 +1,9 @@
 # Portfolio
 I have laid out some of the stuff I have been working on recently throughout this README. This file serves as a directory. If you have any questions or inquiries, please contact me at ambalam.v@wustl.edu
 
+## Academic Projects
+
 ### Free Food Finder (CSE 330)
-##### See a screenshot below!
 For our final project in CSE 330, we decided to make a website to help students find events on campus that are serving free food. We used ReactJS for our frontent UI with MongoDB and Express to handle our backend. MongoDB was amazing because it was so much simpler than MySQL. Though it took a bit to learn React fundamentals, once we got the hang of it, our productivity went through the roof. Reusing components saved us so much time in the long run. Since React was my first JS framework I delved deeply into, I can totally see benefit of how much quicker it is.
 
 I mainly handled creating the form and the list of events in React while my partner Owen Auch handled creating the map using Leaflet, bootstrapping, and the backend with MongoDB and Express. We got started quickly using the create-react-app repo by Facebook.
@@ -20,6 +21,9 @@ Above's a link to a News Website I built with my friend Owen Auch using PHP, htm
 I'm primarily interested in backend web development more so than front end. Hence, my website has some good functionality such as supporting users, accounts, profile pages, databases (with foreign keys), comments, rankings, and more. Passwords in my database are hashed and salted, so they are safe. I made sure to use safe sql query practices as well to prevent sql injection attacks.
 
 Version control was an interesting and sometimes frustrating process at first because this was one of my first projects working with a partner. We ran into some merge conflicts and trouble pulling and pushing with Git at first, but we then started using better practices such as branching so that the merges would go smoother. Overall, it was a good learning through experience about the Do's and Dont's with Git to save headaches in the future.
+
+
+## Personal Projects
 
 ### Pong^2
 ###### Repo link: https://github.com/visaals/pong-2
