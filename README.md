@@ -22,6 +22,7 @@ I'm primarily interested in backend web development more so than front end. Henc
 
 Version control was an interesting and sometimes frustrating process at first because this was one of my first projects working with a partner. We ran into some merge conflicts and trouble pulling and pushing with Git at first, but we then started using better practices such as branching so that the merges would go smoother. Overall, it was a good learning through experience about the Do's and Dont's with Git to save headaches in the future.
 
+![alt-text](http://ec2-52-14-44-219.us-east-2.compute.amazonaws.com/~owenauch/visaal/homepage.php?submit=success)
 
 ## Personal Projects
 
