@@ -4,25 +4,30 @@ I have laid out some of the stuff I have been working on recently throughout thi
 ## Academic Projects
 
 ### Free Food Finder (CSE 330)
-For our final project in CSE 330, we decided to make a website to help students find events on campus that are serving free food. We used ReactJS for our frontent UI with MongoDB and Express to handle our backend. MongoDB was amazing because it was so much simpler than MySQL. Though it took a bit to learn React fundamentals, once we got the hang of it, our productivity went through the roof. Reusing components saved us so much time in the long run. Since React was my first JS framework I delved deeply into, I can totally see benefit of how much quicker it is.
-
-I mainly handled creating the form and the list of events in React while my partner Owen Auch handled creating the map using Leaflet, bootstrapping, and the backend with MongoDB and Express. We got started quickly using the create-react-app repo by Facebook.
-
-Usage: Add an event using the form. If the event is today, it will show up on the map. Click on the map to find your location. Find events going on today and sort them on the list.
+###### Website Link: http://free-food-finder.s3-website.us-east-2.amazonaws.com/
 
 ![alt-text](https://github.com/visaals/Portfolio/blob/master/screenshots/fff_1.png)
 ![alt-text](https://github.com/visaals/Portfolio/blob/master/screenshots/fff_2.png)
 
+For our final project in CSE 330, we decided to make a website to help students find events on campus that are serving free food. We used ReactJS for our frontent UI with MongoDB and Express to handle our backend. MongoDB was amazing because it was so much simpler than MySQL. Though it took a bit to learn React fundamentals, once we got the hang of it, our productivity went through the roof. Reusing components saved us so much time in the long run. Since React was my first JS framework I delved deeply into, I can totally see benefit of how much quicker it is.
+
+I mainly handled creating the form and the list of events in React while my partner Owen Auch (https://github.com/owenauch) handled creating the map using Leaflet, bootstrapping, and the backend with MongoDB and Express. We got started quickly using the create-react-app repo by Facebook.
+
+Usage: Add an event using the form. If the event is today, it will show up on the map. Click on the map to find your location. Find events going on today and sort them on the list.
+
+
 
 ### News Website (CSE 330)
-###### Website Link: http://ec2-52-14-44-219.us-east-2.compute.amazonaws.com/~owenauch/visaal/homepage.php?submit=success
+###### Website Link: http://ec2-52-14-44-219.us-east-2.compute.amazonaws.com/~owenauch/visaal/homepage.php
+
+![alt-text](https://github.com/visaals/Portfolio/blob/master/screenshots/news_website.png)
+
 Above's a link to a News Website I built with my friend Owen Auch (https://github.com/owenauch) using PHP, html, a little bit of css, and mySQL where users can share links to stories or articles they find interesting (like Reddit).
 
 I'm primarily interested in backend web development more so than front end. Hence, my website has some good functionality such as supporting users, accounts, profile pages, databases (with foreign keys), comments, rankings, and more. Passwords in my database are hashed and salted, so they are safe. I made sure to use safe sql query practices as well to prevent sql injection attacks.
 
 Version control was an interesting and sometimes frustrating process at first because this was one of my first projects working with a partner. We ran into some merge conflicts and trouble pulling and pushing with Git at first, but we then started using better practices such as branching so that the merges would go smoother. Overall, it was a good learning through experience about the Do's and Dont's with Git to save headaches in the future.
 
-![alt-text](https://github.com/visaals/Portfolio/blob/master/screenshots/news_website.png)
 
 ## Personal Projects
 
