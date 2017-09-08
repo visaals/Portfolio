@@ -35,7 +35,7 @@ Version control was an interesting and sometimes frustrating process at first be
 
 ### The Wapp (The Workout App)
 #### Summer 2017
-![alt-text](https://github.com/visaals/Portfolio/blob/master/screenshots/output.gif)
+![alt-text](https://github.com/visaals/Portfolio/blob/master/screenshots/resized_wapp.gif)
 
 Above is a gif of a workout app I created using React Native, a Javascript framework owned by Facebook to develop cross platform (iOS and Android) apps. 
 
